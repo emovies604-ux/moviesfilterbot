@@ -1,0 +1,4 @@
+pyrogram
+pymongo
+dnspython # Required by pymongo for SRV connection strings (MongoDB Atlas)
+# python-dotenv # Only if you decide to use .env files for local development
